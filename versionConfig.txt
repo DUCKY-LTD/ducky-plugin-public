@@ -1,2 +1,5 @@
 ads: 1.0.3
-analytics: 3.0.2
+analytics-firebase: 3.0.3
+analytics-appsflyer: 3.0.3
+analytics-gameanalytics: 3.0.3
+analytics-amplitude: 3.0.3
