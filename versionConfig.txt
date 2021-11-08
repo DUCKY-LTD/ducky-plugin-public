@@ -4,6 +4,6 @@ analytics-gameanalytics: 3.1.2
 analytics-amplitude: 3.1.2
 xpromo: 1.3.7
 logging-crashlytics: 1.1.2
-ads-applovin: 1.2.9
+ads-applovin: 1.2.10
 ads-topon: 1.2.11
-launcher: 1.4.0
+launcher: 1.4.1
