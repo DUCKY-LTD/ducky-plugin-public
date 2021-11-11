@@ -1,5 +1,5 @@
 analytics-firebase: 3.1.3
-analytics-appsflyer: 3.1.3
+analytics-appsflyer: 3.1.4
 analytics-gameanalytics: 3.1.4
 analytics-amplitude: 3.1.4
 xpromo: 1.3.9
