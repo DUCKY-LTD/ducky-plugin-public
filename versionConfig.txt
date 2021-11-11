@@ -5,5 +5,5 @@ analytics-amplitude: 3.1.4
 xpromo: 1.3.9
 logging-crashlytics: 1.1.3
 ads-applovin: 1.2.15
-ads-topon: 1.2.14
+ads-topon: 1.2.15
 launcher: 1.4.4
