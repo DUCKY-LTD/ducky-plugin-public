@@ -7,4 +7,4 @@ logging-crashlytics: 1.1.3
 ads-applovin: 1.2.16
 ads-topon: 1.2.16
 launcher: 1.4.7
-analytics-facebook: 1.0.0
+analytics-facebook: 1.0.1
