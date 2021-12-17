@@ -81,7 +81,7 @@
 	},
 	"launcher": {
 		"version": "1.6.0",
-		"debugVersion": "0.0.0",
+		"debugVersion": "2.1.0",
 		"displayName": "",
 		"displayCategory": "",
 		"fixDependencies": "False",
