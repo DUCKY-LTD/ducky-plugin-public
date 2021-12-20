@@ -62,8 +62,8 @@
 	"ads-applovin": {
 		"version": "1.3.6",
 		"debugVersion": "1.3.7",
-		"displayName": "",
-		"displayCategory": "",
+		"displayName": "AppLovin",
+		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
 		"requirements": {
 			"launcher": "1.6.0"
@@ -72,8 +72,8 @@
 	"ads-topon": {
 		"version": "1.3.2",
 		"debugVersion": "1.3.3",
-		"displayName": "",
-		"displayCategory": "",
+		"displayName": "TopOn",
+		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
 		"requirements": {
 			"launcher": "1.6.0"
