@@ -70,10 +70,10 @@
 		}
 	},
 	"ads-topon": {
-		"version": "1.3.2",
+		"version": "1.3.3",
 		"debugVersion": "0.0.0",
-		"displayName": "TopOn",
-		"displayCategory": "Ad Monetization",
+		"displayName": "",
+		"displayCategory": "",
 		"fixDependencies": "False",
 		"requirements": {
 			"launcher": "1.6.0"
