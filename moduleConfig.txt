@@ -1,7 +1,7 @@
 {
 	"analytics-firebase": {
 		"version": "3.1.4",
-		"debugVersion": "0.0.0",
+		"debugVersion": "3.1.5",
 		"displayName": "Firebase",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -11,7 +11,7 @@
 	},
 	"analytics-appsflyer": {
 		"version": "3.1.9",
-		"debugVersion": "0.0.0",
+		"debugVersion": "3.1.10",
 		"displayName": "AppsFlyer",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -21,7 +21,7 @@
 	},
 	"analytics-gameanalytics": {
 		"version": "3.2.4",
-		"debugVersion": "0.0.0",
+		"debugVersion": "3.2.5",
 		"displayName": "GameAnalytics",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -31,7 +31,7 @@
 	},
 	"analytics-amplitude": {
 		"version": "3.1.5",
-		"debugVersion": "0.0.0",
+		"debugVersion": "3.1.6",
 		"displayName": "Amplitude",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -90,7 +90,7 @@
 	},
 	"analytics-facebook": {
 		"version": "1.0.2",
-		"debugVersion": "0.0.0",
+		"debugVersion": "1.0.3",
 		"displayName": "Facebook",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
