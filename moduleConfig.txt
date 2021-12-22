@@ -10,10 +10,10 @@
 		}
 	},
 	"analytics-appsflyer": {
-		"version": "3.1.13",
-		"debugVersion": "0.0.0",
-		"displayName": "",
-		"displayCategory": "",
+		"version": "3.1.9",
+		"debugVersion": "3.1.13",
+		"displayName": "AppsFlyer",
+		"displayCategory": "Analytics",
 		"fixDependencies": "False",
 		"requirements": {
 			"launcher": "1.6.0"
