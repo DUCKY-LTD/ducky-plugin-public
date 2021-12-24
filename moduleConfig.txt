@@ -41,7 +41,7 @@
 	},
 	"xpromo": {
 		"version": "1.3.13",
-		"debugVersion": "1.3.16",
+		"debugVersion": "1.3.17",
 		"displayName": "XPromo",
 		"displayCategory": "",
 		"fixDependencies": "False",
@@ -82,7 +82,7 @@
 	},
 	"launcher": {
 		"version": "1.6.0",
-		"debugVersion": "2.1.5",
+		"debugVersion": "2.1.6",
 		"displayName": "",
 		"displayCategory": "",
 		"fixDependencies": "False",
