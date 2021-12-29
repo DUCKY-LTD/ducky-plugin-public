@@ -21,7 +21,7 @@
 	},
 	"analytics-gameanalytics": {
 		"version": "3.2.4",
-		"debugVersion": "3.2.5",
+		"debugVersion": "3.2.6",
 		"displayName": "GameAnalytics",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -91,7 +91,7 @@
 	},
 	"analytics-facebook": {
 		"version": "1.0.2",
-		"debugVersion": "1.0.4",
+		"debugVersion": "1.0.5",
 		"displayName": "Facebook",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
