@@ -62,7 +62,7 @@
 	},
 	"ads-applovin": {
 		"version": "1.3.6",
-		"debugVersion": "1.3.11",
+		"debugVersion": "1.4.0",
 		"displayName": "AppLovin",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
