@@ -1,88 +1,88 @@
 {
 	"analytics-firebase": {
 		"version": "3.1.5",
-		"debugVersion": "3.1.5",
+		"debugVersion": "3.1.4",
 		"displayName": "Firebase",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "1.6.0"
 		}
 	},
 	"analytics-appsflyer": {
 		"version": "3.1.14",
-		"debugVersion": "3.1.14",
+		"debugVersion": "3.1.9",
 		"displayName": "AppsFlyer",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "1.6.0"
 		}
 	},
 	"analytics-gameanalytics": {
 		"version": "3.2.6",
-		"debugVersion": "3.2.6",
+		"debugVersion": "3.2.4",
 		"displayName": "GameAnalytics",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "1.6.0"
 		}
 	},
 	"analytics-amplitude": {
 		"version": "3.1.9",
-		"debugVersion": "3.1.9",
+		"debugVersion": "3.1.5",
 		"displayName": "Amplitude",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "1.6.0"
 		}
 	},
 	"xpromo": {
 		"version": "1.3.17",
-		"debugVersion": "1.3.17",
+		"debugVersion": "1.3.13",
 		"displayName": "XPromo",
 		"displayCategory": "",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0",
-			"analytics-appsflyer": "3.1.14"
+			"launcher": "1.6.0",
+			"analytics-appsflyer": "3.1.9"
 		}
 	},
 	"logging-crashlytics": {
 		"version": "1.1.5",
-		"debugVersion": "1.1.5",
+		"debugVersion": "1.1.3",
 		"displayName": "Crashlytics",
 		"displayCategory": "",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "1.6.0"
 		}
 	},
 	"ads-applovin": {
 		"version": "1.4.0",
-		"debugVersion": "1.4.0",
+		"debugVersion": "1.3.6",
 		"displayName": "AppLovin",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "1.6.0"
 		}
 	},
 	"ads-topon": {
 		"version": "1.3.5",
-		"debugVersion": "1.3.5",
+		"debugVersion": "1.3.2",
 		"displayName": "TopOn",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "1.6.0"
 		}
 	},
 	"launcher": {
 		"version": "2.2.2",
-		"debugVersion": "2.2.2",
+		"debugVersion": "1.6.0",
 		"displayName": "",
 		"displayCategory": "",
 		"fixDependencies": "True",
@@ -91,12 +91,12 @@
 	},
 	"analytics-facebook": {
 		"version": "1.0.5",
-		"debugVersion": "1.0.5",
+		"debugVersion": "1.0.2",
 		"displayName": "Facebook",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "1.6.0"
 		}
 	}
 }
