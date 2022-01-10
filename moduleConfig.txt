@@ -81,7 +81,7 @@
 		}
 	},
 	"launcher": {
-		"version": "1.6.0",
+		"version": "2.2.2",
 		"debugVersion": "2.2.2",
 		"displayName": "",
 		"displayCategory": "",
