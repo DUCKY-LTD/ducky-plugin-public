@@ -20,15 +20,15 @@
 		}
 	},
 	"analytics-gameanalytics": {
-		"version": "3.2.7",
-		"debugVersion": "0.0.0",
-		"displayName": "",
-		"displayCategory": "",
-		"fixDependencies": "False",
-		"requirements": {
-			"launcher": "1.6.0"
-		}
-	},
+        "version": "3.2.7",
+        "debugVersion": "3.2.7",
+        "displayName": "Gameanalytics",
+        "displayCategory": "Analytics",
+        "fixDependencies": "False",
+        "requirements": {
+            "launcher": "2.2.0"
+        }
+    },
 	"analytics-amplitude": {
 		"version": "3.1.10",
 		"debugVersion": "3.1.10",
