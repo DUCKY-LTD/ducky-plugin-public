@@ -1,7 +1,7 @@
 {
 	"analytics-firebase": {
-		"version": "3.1.5",
-		"debugVersion": "3.1.5",
+		"version": "3.1.6",
+		"debugVersion": "3.1.6",
 		"displayName": "Firebase",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -10,8 +10,8 @@
 		}
 	},
 	"analytics-appsflyer": {
-		"version": "3.1.16",
-		"debugVersion": "3.1.16",
+		"version": "3.1.17",
+		"debugVersion": "3.1.17",
 		"displayName": "AppsFlyer",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -20,18 +20,18 @@
 		}
 	},
 	"analytics-gameanalytics": {
-		"version": "3.2.6",
-		"debugVersion": "3.2.6",
-		"displayName": "GameAnalytics",
-		"displayCategory": "Analytics",
+		"version": "3.2.7",
+		"debugVersion": "0.0.0",
+		"displayName": "",
+		"displayCategory": "",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "1.6.0"
 		}
 	},
 	"analytics-amplitude": {
-		"version": "3.1.9",
-		"debugVersion": "3.1.9",
+		"version": "3.1.10",
+		"debugVersion": "3.1.10",
 		"displayName": "Amplitude",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -61,8 +61,8 @@
 		}
 	},
 	"ads-applovin": {
-		"version": "1.4.0",
-		"debugVersion": "1.4.0",
+		"version": "1.5.0",
+		"debugVersion": "1.5.0",
 		"displayName": "AppLovin",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
@@ -71,8 +71,8 @@
 		}
 	},
 	"ads-topon": {
-		"version": "1.3.5",
-		"debugVersion": "1.3.5",
+		"version": "1.3.6",
+		"debugVersion": "1.3.6",
 		"displayName": "TopOn",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
@@ -82,7 +82,7 @@
 	},
 	"launcher": {
 		"version": "2.2.5",
-		"debugVersion": "2.2.6",
+		"debugVersion": "2.2.7",
 		"displayName": "",
 		"displayCategory": "",
 		"fixDependencies": "True",
@@ -92,11 +92,11 @@
 	"analytics-facebook": {
 		"version": "1.0.6",
 		"debugVersion": "1.0.6",
-		"displayName": "",
-		"displayCategory": "",
+		"displayName": "Facebook",
+		"displayCategory": "Analytics",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "1.6.0"
+			"launcher": "2.2.0"
 		}
 	}
 }
