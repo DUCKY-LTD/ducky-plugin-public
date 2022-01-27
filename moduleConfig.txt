@@ -72,7 +72,7 @@
 	},
 	"ads-topon": {
 		"version": "1.3.6",
-		"debugVersion": "1.3.6",
+		"debugVersion": "2.0.0",
 		"displayName": "TopOn",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
