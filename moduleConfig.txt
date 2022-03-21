@@ -10,8 +10,8 @@
 		}
 	},
 	"analytics-appsflyer": {
-		"version": "3.1.17",
-		"debugVersion": "3.1.18",
+		"version": "3.1.18",
+		"debugVersion": "3.1.19",
 		"displayName": "AppsFlyer",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -61,13 +61,13 @@
 		}
 	},
 	"ads-applovin": {
-		"version": "1.5.9",
+		"version": "1.6.3",
 		"debugVersion": "1.6.3",
 		"displayName": "AppLovin",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
 		"requirements": {
-			"launcher": "2.2.0"
+			"launcher": "2.4.2"
 		}
 	},
 	"ads-topon": {
@@ -81,8 +81,8 @@
 		}
 	},
 	"launcher": {
-		"version": "2.2.9",
-		"debugVersion": "2.4.2",
+		"version": "2.4.2",
+		"debugVersion": "2.4.3",
 		"displayName": "",
 		"displayCategory": "",
 		"fixDependencies": "True",
