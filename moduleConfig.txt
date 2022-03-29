@@ -91,7 +91,7 @@
 	},
 	"analytics-facebook": {
 		"version": "1.0.6",
-		"debugVersion": "1.0.6",
+		"debugVersion": "1.0.7",
 		"displayName": "Facebook",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
