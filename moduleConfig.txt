@@ -1,7 +1,7 @@
 {
 	"analytics-firebase": {
 		"version": "3.1.6",
-		"debugVersion": "3.1.6",
+		"debugVersion": "3.2.0",
 		"displayName": "Firebase",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -11,7 +11,7 @@
 	},
 	"analytics-appsflyer": {
 		"version": "3.1.18",
-		"debugVersion": "3.1.20",
+		"debugVersion": "3.2.0",
 		"displayName": "AppsFlyer",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -20,8 +20,8 @@
 		}
 	},
 	"analytics-gameanalytics": {
-		"version": "3.2.10",
-		"debugVersion": "3.2.10",
+		"version": "3.2.8",
+		"debugVersion": "3.3.0",
 		"displayName": "Gameanalytics",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -31,7 +31,7 @@
 	},
 	"analytics-amplitude": {
 		"version": "3.1.10",
-		"debugVersion": "3.1.10",
+		"debugVersion": "3.2.0",
 		"displayName": "Amplitude",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -62,7 +62,7 @@
 	},
 	"ads-applovin": {
 		"version": "1.6.4",
-		"debugVersion": "1.6.6",
+		"debugVersion": "1.6.7",
 		"displayName": "AppLovin",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
@@ -72,7 +72,7 @@
 	},
 	"ads-topon": {
 		"version": "2.0.2",
-		"debugVersion": "2.1.0",
+		"debugVersion": "2.1.1",
 		"displayName": "TopOn",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
@@ -91,7 +91,7 @@
 	},
 	"analytics-facebook": {
 		"version": "1.0.6",
-		"debugVersion": "1.0.7",
+		"debugVersion": "1.1.0",
 		"displayName": "Facebook",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
