@@ -102,7 +102,7 @@
 	"analytics-appmetrica": {
 		"version": "0.0.0",
 		"debugVersion": "1.0.0",
-		"displayName": "Appmetrica",
+		"displayName": "AppMetrica",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
 		"requirements": {
