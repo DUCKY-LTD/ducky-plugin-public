@@ -98,5 +98,15 @@
 		"requirements": {
 			"launcher": "2.2.0"
 		}
+	},
+	"analytics-appmetrica": {
+		"version": "0.0.0",
+		"debugVersion": "1.0.0",
+		"displayName": "Appmetrica",
+		"displayCategory": "Analytics",
+		"fixDependencies": "False",
+		"requirements": {
+			"launcher": "2.5.0"
+		}
 	}
 }
