@@ -21,7 +21,7 @@
 	},
 	"analytics-gameanalytics": {
 		"version": "3.2.8",
-		"debugVersion": "3.3.1",
+		"debugVersion": "3.3.2",
 		"displayName": "Gameanalytics",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -62,7 +62,7 @@
 	},
 	"ads-applovin": {
 		"version": "1.6.4",
-		"debugVersion": "1.6.8",
+		"debugVersion": "1.6.9",
 		"displayName": "AppLovin",
 		"displayCategory": "Ad Monetization",
 		"fixDependencies": "False",
@@ -82,7 +82,7 @@
 	},
 	"launcher": {
 		"version": "2.4.2.2",
-		"debugVersion": "2.5.4",
+		"debugVersion": "2.5.5",
 		"displayName": "",
 		"displayCategory": "",
 		"fixDependencies": "True",
