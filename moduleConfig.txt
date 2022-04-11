@@ -21,7 +21,7 @@
 	},
 	"analytics-gameanalytics": {
 		"version": "3.2.8",
-		"debugVersion": "3.3.2",
+		"debugVersion": "3.4.0",
 		"displayName": "Gameanalytics",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
