@@ -11,7 +11,7 @@
 	},
 	"analytics-appsflyer": {
 		"version": "3.1.18",
-		"debugVersion": "3.2.0",
+		"debugVersion": "3.2.1",
 		"displayName": "AppsFlyer",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -31,7 +31,7 @@
 	},
 	"analytics-amplitude": {
 		"version": "3.1.10",
-		"debugVersion": "3.2.0",
+		"debugVersion": "3.2.1",
 		"displayName": "Amplitude",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -82,7 +82,7 @@
 	},
 	"launcher": {
 		"version": "2.4.2.2",
-		"debugVersion": "2.5.6",
+		"debugVersion": "2.5.7",
 		"displayName": "",
 		"displayCategory": "",
 		"fixDependencies": "True",
@@ -91,7 +91,7 @@
 	},
 	"analytics-facebook": {
 		"version": "1.0.6",
-		"debugVersion": "1.1.0",
+		"debugVersion": "1.1.1",
 		"displayName": "Facebook",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -101,7 +101,7 @@
 	},
 	"analytics-appmetrica": {
 		"version": "0.0.0",
-		"debugVersion": "1.0.1",
+		"debugVersion": "1.0.2",
 		"displayName": "AppMetrica",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
