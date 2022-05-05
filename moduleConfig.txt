@@ -11,7 +11,7 @@
 	},
 	"analytics-appsflyer": {
 		"version": "3.1.18",
-		"debugVersion": "3.2.1",
+		"debugVersion": "3.2.2",
 		"displayName": "AppsFlyer",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
@@ -41,7 +41,7 @@
 	},
 	"xpromo": {
 		"version": "1.3.17",
-		"debugVersion": "2.0.0",
+		"debugVersion": "2.1.0",
 		"displayName": "XPromo",
 		"displayCategory": "",
 		"fixDependencies": "False",
@@ -82,7 +82,7 @@
 	},
 	"launcher": {
 		"version": "2.4.2.2",
-		"debugVersion": "2.6.4",
+		"debugVersion": "2.7.0",
 		"displayName": "",
 		"displayCategory": "",
 		"fixDependencies": "True",
@@ -101,7 +101,7 @@
 	},
 	"analytics-appmetrica": {
 		"version": "0.0.0",
-		"debugVersion": "1.0.4",
+		"debugVersion": "1.0.3",
 		"displayName": "AppMetrica",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
