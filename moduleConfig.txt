@@ -1,7 +1,7 @@
 {
 	"analytics-firebase": {
 		"version": "3.1.6",
-		"debugVersion": "3.2.0",
+		"debugVersion": "3.2.1",
 		"displayName": "Firebase",
 		"displayCategory": "Analytics",
 		"fixDependencies": "False",
