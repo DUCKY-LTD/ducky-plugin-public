@@ -108,5 +108,15 @@
 		"requirements": {
 			"launcher": "2.5.0"
 		}
+	},
+	"rateus": {
+		"version": "0.0.0",
+		"debugVersion": "1.0.0",
+		"displayName": "RateUs",
+		"displayCategory": "",
+		"fixDependencies": "False",
+		"requirements": {
+			"launcher": "2.6.0"
+		}
 	}
 }
