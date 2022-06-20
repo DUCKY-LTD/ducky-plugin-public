@@ -41,7 +41,7 @@
 	},
 	"xpromo": {
 		"version": "1.3.17",
-		"debugVersion": "2.1.12",
+		"debugVersion": "2.1.13",
 		"displayName": "XPromo",
 		"displayCategory": "",
 		"fixDependencies": "False",
